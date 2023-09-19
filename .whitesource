@@ -15,7 +15,7 @@
       "minSeverityLevel": "LOW"
   },
   "remediateSettings": {
-      "enableRenovate": true,
+      "enableRenovate": false,
       "extends": ["github>whitesource/merge-confidence:beta"],
       "workflowsRules":{
         "enabled":true
