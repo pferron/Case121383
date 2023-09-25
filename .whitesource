@@ -5,7 +5,7 @@
     "enableLicenseViolations": true,
     "projectToken": "",
     "enableIaC": true,
-    "baseBranches": ["feature/add-mend"]
+    "baseBranches": ["test"]
   },
   "checkRunSettings": {
       "vulnerableCheckRunConclusionLevel": "failure",
